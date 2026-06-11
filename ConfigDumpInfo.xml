@@ -15,14 +15,14 @@
 			<Metadata name="Catalog.Товары.Attribute.Цена" id="d3276e59-1346-4f19-a61b-1e5682e8bf62"/>
 		</Metadata>
 		<Metadata name="Configuration.Конфигурация" id="b35b8524-ff83-4898-be79-449dbf89b647" configVersion="bad049da47c2ec4bb7d117399e90a35900000000"/>
-		<Metadata name="Document.ПереводДенег" id="898749cb-556f-460d-bc84-7b886c5e1b6f" configVersion="c4e8645f022a6c44af478167d678cb7000000000">
+		<Metadata name="Document.ПереводДенег" id="898749cb-556f-460d-bc84-7b886c5e1b6f" configVersion="df0da06721d1e045951356df0a80a08400000000">
 			<Metadata name="Document.ПереводДенег.Attribute.КошелекОтправитель" id="15c8ccbf-2dfc-417c-828c-fe4e3410518a"/>
 			<Metadata name="Document.ПереводДенег.Attribute.Сумма" id="bc477251-4703-4e68-8427-68c27095d48d"/>
 			<Metadata name="Document.ПереводДенег.Attribute.КошелекПолучатель" id="cf1f6f08-4a82-4ec1-aa9d-f16b943a5bee"/>
 		</Metadata>
 		<Metadata name="Document.ПереводДенег.Form.ФормаДокумента" id="3aca6977-93d6-44cb-8e4e-7679a9421ad1" configVersion="516ea2685602854292568aaa4ee3be1300000000"/>
 		<Metadata name="Document.ПереводДенег.Form.ФормаДокумента.Form" id="3aca6977-93d6-44cb-8e4e-7679a9421ad1.0" configVersion="dd2d7ce385c78849b2baed46fde31f9100000000"/>
-		<Metadata name="Document.ПереводДенег.ObjectModule" id="898749cb-556f-460d-bc84-7b886c5e1b6f.0" configVersion="140c53519080804abb9844162c568a0e00000000"/>
+		<Metadata name="Document.ПереводДенег.ObjectModule" id="898749cb-556f-460d-bc84-7b886c5e1b6f.0" configVersion="c1a7986aa258e74e94139f30e07a523f00000000"/>
 		<Metadata name="Document.ПоступлениеДенег" id="66e5ccde-d200-43a7-8668-6d779691c005" configVersion="d3d147494052a74285c91e286868d2e800000000">
 			<Metadata name="Document.ПоступлениеДенег.Attribute.СтатьяДДС" id="539aaeec-70ae-4299-8923-50b33ca1ff68"/>
 			<Metadata name="Document.ПоступлениеДенег.Attribute.Кошелек" id="8ca1b481-632e-47d3-bcdb-5aa24dbdc3c3"/>
