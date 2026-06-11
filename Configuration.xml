@@ -267,6 +267,7 @@
 			<Catalog>Валюты</Catalog>
 			<Document>ПоступлениеДенег</Document>
 			<Document>СписаниеДенег</Document>
+			<Document>ПереводДенег</Document>
 			<Report>ОстаткиКошельков</Report>
 			<InformationRegister>КурсыВалют</InformationRegister>
 			<AccumulationRegister>ОстаткиДенежныхСредств</AccumulationRegister>
