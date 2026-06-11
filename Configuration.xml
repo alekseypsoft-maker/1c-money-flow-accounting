@@ -265,6 +265,7 @@
 			<Catalog>СтатьиДвиженияДенежныхСредств</Catalog>
 			<Document>ПоступлениеДенег</Document>
 			<Document>СписаниеДенег</Document>
+			<AccumulationRegister>ОстаткиДенежныхСредств</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
