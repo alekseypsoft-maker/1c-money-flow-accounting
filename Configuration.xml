@@ -266,6 +266,7 @@
 			<Catalog>СтатьиДвиженияДенежныхСредств</Catalog>
 			<Document>ПоступлениеДенег</Document>
 			<Document>СписаниеДенег</Document>
+			<Report>ОстаткиКошельков</Report>
 			<AccumulationRegister>ОстаткиДенежныхСредств</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
