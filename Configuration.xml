@@ -264,9 +264,11 @@
 			<Catalog>Товары</Catalog>
 			<Catalog>Кошельки</Catalog>
 			<Catalog>СтатьиДвиженияДенежныхСредств</Catalog>
+			<Catalog>Валюты</Catalog>
 			<Document>ПоступлениеДенег</Document>
 			<Document>СписаниеДенег</Document>
 			<Report>ОстаткиКошельков</Report>
+			<InformationRegister>КурсыВалют</InformationRegister>
 			<AccumulationRegister>ОстаткиДенежныхСредств</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
