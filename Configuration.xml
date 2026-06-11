@@ -264,6 +264,7 @@
 			<Catalog>Кошельки</Catalog>
 			<Catalog>СтатьиДвиженияДенежныхСредств</Catalog>
 			<Document>ПоступлениеДенег</Document>
+			<Document>СписаниеДенег</Document>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
