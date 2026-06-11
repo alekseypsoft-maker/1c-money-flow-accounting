@@ -261,6 +261,7 @@
 			<Language>Русский</Language>
 			<Subsystem>Основная</Subsystem>
 			<Subsystem>Финансы</Subsystem>
+			<CommonModule>РаботаСВалютами</CommonModule>
 			<Catalog>Товары</Catalog>
 			<Catalog>Кошельки</Catalog>
 			<Catalog>СтатьиДвиженияДенежныхСредств</Catalog>
