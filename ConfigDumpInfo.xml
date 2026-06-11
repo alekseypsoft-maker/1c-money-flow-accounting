@@ -1,10 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.21">
 	<ConfigVersions>
-		<Metadata name="Catalog.Товары" id="3f942b89-90df-44fb-aab6-467788a9dbc5" configVersion="4b0827c4081a1949bcbd060e656ce09a00000000">
+		<Metadata name="Catalog.Кошельки" id="7cf8cea9-0a53-4ee0-9dc0-abb38ef5ad6a" configVersion="c9175727122cef4fb080aa927cd3816b00000000"/>
+		<Metadata name="Catalog.СтатьиДвиженияДенежныхСредств" id="4aa4a1cb-9f80-4458-99b5-7f0e0bb4bfe4" configVersion="27524997c1151a4295dfe447b72b4c0f00000000"/>
+		<Metadata name="Catalog.Товары" id="3f942b89-90df-44fb-aab6-467788a9dbc5" configVersion="3c73d86d8579fb429b1d4ff4e2e9364f00000000">
 			<Metadata name="Catalog.Товары.Attribute.Цена" id="d3276e59-1346-4f19-a61b-1e5682e8bf62"/>
 		</Metadata>
-		<Metadata name="Configuration.Конфигурация" id="b35b8524-ff83-4898-be79-449dbf89b647" configVersion="650395132e88d44cbfe4c09669988cb900000000"/>
+		<Metadata name="Configuration.Конфигурация" id="b35b8524-ff83-4898-be79-449dbf89b647" configVersion="0af23ce95572ef43a6023c00bab4ef5600000000"/>
+		<Metadata name="Document.ПоступлениеДенег" id="66e5ccde-d200-43a7-8668-6d779691c005" configVersion="a06f5a07e421cf48b4e3354ddabfdaa300000000">
+			<Metadata name="Document.ПоступлениеДенег.Attribute.СтатьяДДС" id="539aaeec-70ae-4299-8923-50b33ca1ff68"/>
+			<Metadata name="Document.ПоступлениеДенег.Attribute.Кошелек" id="8ca1b481-632e-47d3-bcdb-5aa24dbdc3c3"/>
+			<Metadata name="Document.ПоступлениеДенег.Attribute.Сумма" id="c0414b6c-f2e7-4a74-9b49-8cc4da663541"/>
+		</Metadata>
 		<Metadata name="Language.Русский" id="ac878cab-9397-4650-853e-6486a318081c" configVersion="3477fe94ca00274eaf3e32b6649f7df300000000"/>
+		<Metadata name="Subsystem.Основная" id="1cb5c17a-7159-4369-8569-551c086be01e" configVersion="8533090cff8dfa47be73e0d169c4045700000000"/>
+		<Metadata name="Subsystem.Основная.CommandInterface" id="1cb5c17a-7159-4369-8569-551c086be01e.1" configVersion="9a973d9beb9ff842a9d19c6b5efcd87500000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

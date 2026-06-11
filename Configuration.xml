@@ -259,7 +259,11 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>Основная</Subsystem>
 			<Catalog>Товары</Catalog>
+			<Catalog>Кошельки</Catalog>
+			<Catalog>СтатьиДвиженияДенежныхСредств</Catalog>
+			<Document>ПоступлениеДенег</Document>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
