@@ -15,23 +15,26 @@
 			<Metadata name="Catalog.Товары.Attribute.Цена" id="d3276e59-1346-4f19-a61b-1e5682e8bf62"/>
 		</Metadata>
 		<Metadata name="Configuration.Конфигурация" id="b35b8524-ff83-4898-be79-449dbf89b647" configVersion="bad049da47c2ec4bb7d117399e90a35900000000"/>
-		<Metadata name="Document.ПереводДенег" id="898749cb-556f-460d-bc84-7b886c5e1b6f" configVersion="4c29d1724ac8be4192d8e339eb87d9dc00000000">
+		<Metadata name="Document.ПереводДенег" id="898749cb-556f-460d-bc84-7b886c5e1b6f" configVersion="c4e8645f022a6c44af478167d678cb7000000000">
 			<Metadata name="Document.ПереводДенег.Attribute.КошелекОтправитель" id="15c8ccbf-2dfc-417c-828c-fe4e3410518a"/>
 			<Metadata name="Document.ПереводДенег.Attribute.Сумма" id="bc477251-4703-4e68-8427-68c27095d48d"/>
 			<Metadata name="Document.ПереводДенег.Attribute.КошелекПолучатель" id="cf1f6f08-4a82-4ec1-aa9d-f16b943a5bee"/>
 		</Metadata>
+		<Metadata name="Document.ПереводДенег.Form.ФормаДокумента" id="3aca6977-93d6-44cb-8e4e-7679a9421ad1" configVersion="516ea2685602854292568aaa4ee3be1300000000"/>
+		<Metadata name="Document.ПереводДенег.Form.ФормаДокумента.Form" id="3aca6977-93d6-44cb-8e4e-7679a9421ad1.0" configVersion="dd2d7ce385c78849b2baed46fde31f9100000000"/>
+		<Metadata name="Document.ПереводДенег.ObjectModule" id="898749cb-556f-460d-bc84-7b886c5e1b6f.0" configVersion="140c53519080804abb9844162c568a0e00000000"/>
 		<Metadata name="Document.ПоступлениеДенег" id="66e5ccde-d200-43a7-8668-6d779691c005" configVersion="d3d147494052a74285c91e286868d2e800000000">
 			<Metadata name="Document.ПоступлениеДенег.Attribute.СтатьяДДС" id="539aaeec-70ae-4299-8923-50b33ca1ff68"/>
 			<Metadata name="Document.ПоступлениеДенег.Attribute.Кошелек" id="8ca1b481-632e-47d3-bcdb-5aa24dbdc3c3"/>
 			<Metadata name="Document.ПоступлениеДенег.Attribute.Сумма" id="c0414b6c-f2e7-4a74-9b49-8cc4da663541"/>
 		</Metadata>
 		<Metadata name="Document.ПоступлениеДенег.ObjectModule" id="66e5ccde-d200-43a7-8668-6d779691c005.0" configVersion="a6e2275ce00d9847927b0db1b08760c500000000"/>
-		<Metadata name="Document.СписаниеДенег" id="ee9f679f-3b71-4de7-94bb-c4dedf3dbd33" configVersion="7f83583bdba2804f838d6f631103b89f00000000">
+		<Metadata name="Document.СписаниеДенег" id="ee9f679f-3b71-4de7-94bb-c4dedf3dbd33" configVersion="16f94f8f10a98645888826d27abb5cd100000000">
 			<Metadata name="Document.СписаниеДенег.Attribute.Сумма" id="40ef246b-b1b8-4579-bf68-9296bbe9d2d6"/>
 			<Metadata name="Document.СписаниеДенег.Attribute.СтатьяДДС" id="53a98426-d6ee-4e2a-853c-5f8862d2e0d5"/>
 			<Metadata name="Document.СписаниеДенег.Attribute.Кошелёк" id="8cf6ee22-e4ce-48ca-a544-3f81be374909"/>
 		</Metadata>
-		<Metadata name="Document.СписаниеДенег.ObjectModule" id="ee9f679f-3b71-4de7-94bb-c4dedf3dbd33.0" configVersion="e056dc0f9e9f2d4e98d06c1790ffa6ef00000000"/>
+		<Metadata name="Document.СписаниеДенег.ObjectModule" id="ee9f679f-3b71-4de7-94bb-c4dedf3dbd33.0" configVersion="39506d2ea273924ea7c52cc1248fa81000000000"/>
 		<Metadata name="InformationRegister.КурсыВалют" id="d04befdf-e193-4121-9a48-7e11a331fdec" configVersion="d7a1d4dfcdb0fc438fc6856eb0ba0b4600000000">
 			<Metadata name="InformationRegister.КурсыВалют.Resource.Курс" id="a340eab6-a4ee-40b3-af9c-a083edb79d7e"/>
 			<Metadata name="InformationRegister.КурсыВалют.Dimension.Валюта" id="ebfbe96a-bcd2-4816-b115-07e8dffa3e12"/>
